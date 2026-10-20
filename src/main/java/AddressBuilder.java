@@ -62,7 +62,7 @@ public class AddressBuilder {
         System.out.println("\n" + fullName);
         System.out.println("Billing Address: ");
         System.out.println(billingAddress);
-        System.out.println("Shipping Address: ");
+        System.out.println("\nShipping Address: ");
         System.out.println(shippingAddress);
 
         read.close();
